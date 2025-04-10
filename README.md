@@ -17,6 +17,13 @@
 ## 라이선스
 이 폰트는 SIL Open Font License, Version 1.1에 따라 배포됩니다. 자세한 내용은 [LICENSE.md](https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V7/blob/main/LICENSE.md)를 확인하세요.
 
+## 폰트 시리즈
+- 조군 개발새발 V2(CHOGOON CHICKEN SCRATCH V2): https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V2
+- 조군 개발새발 V3(CHOGOON CHICKEN SCRATCH V3): https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V3
+- 조군 개발새발 V5(CHOGOON CHICKEN SCRATCH V5): https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V5
+- 조군 개발새발 V6(CHOGOON CHICKEN SCRATCH V6): https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V6
+- 조군 개발새발 V7(CHOGOON CHICKEN SCRATCH V7): https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V7
+
 ## 문의
 - 제작자: 조군 (CHOGOON)
 - 이메일: hamalyric@gmail.com
